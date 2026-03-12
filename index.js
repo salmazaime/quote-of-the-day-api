@@ -16,7 +16,7 @@ const quotes = [
   { id: 8, text: "It's not a bug — it's an undocumented feature.", author: "Anonymous", category: "fun" },
   { id: 9, text: "The best error message is the one that never shows up.", author: "Thomas Fuchs", category: "dev" },
   { id: 10, text: "Code never lies, comments sometimes do.", author: "Ron Jeffries", category: "dev" },
-  { id: 11, text: "new quote added", author: "salma zaime", category: "test" },
+  { id: 11, text: "new quote added!", author: "salma zaime", category: "test" },
 
 ];
 
